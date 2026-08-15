@@ -26,7 +26,7 @@ The project covers database creation, data loading, data cleaning, relational da
 ## 🗂️ Dataset
 
 **Dataset:** Online Shop 2024  
-**Source:** Kaggle <a href="https://www.kaggle.com/datasets/marthadimgba/online-shop-2024"> Click here to access dataset </a>
+**Source:** Kaggle <br> <a href="https://www.kaggle.com/datasets/marthadimgba/online-shop-2024"> Click here to access dataset </a>
 
 The dataset contains multiple related tables representing different aspects of an online shopping business, including:
 * Customers
